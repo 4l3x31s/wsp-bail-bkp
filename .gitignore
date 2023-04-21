@@ -29,7 +29,6 @@ log
 log/*
 *.log
 *.tgz
-lib
 tmp/
 .yarn/*
 !.yarn/releases
